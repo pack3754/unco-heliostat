@@ -11,6 +11,7 @@ You may also be interested in the main UNCo Physics Students: Research and Resou
 This project contains _all_ of the files required to get the UNCo heliostat up
 and running. The files are organized into the following structure:
 
+* CMakeLists.txt - cross platform makefiles to compile the Heliostat package
 * config - top-level package configuration, including versionn numbers and doxygen configuration files.
 * docs - All project documentation will be organized here.
 * docs/doxy - Additional doxygen pages to help with source code documentation 
@@ -18,4 +19,3 @@ and running. The files are organized into the following structure:
 * docs/images - images for use in papers, the web, and documentation
 * hw - hardware design documents
 * include - distribution header files for the Heliostat C/C++ API
-* CMakeLists.txt - cross platform makefiles to compile the Heliostat package
