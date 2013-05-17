@@ -16,3 +16,4 @@ and running. The files are organized into the following structure:
 * docs/images - images for use in papers, the web, and documentation
 * hw - hardware design documents
 * include - distribution header files for the Heliostat C/C++ API
+* www - the project website
